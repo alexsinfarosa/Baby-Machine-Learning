@@ -2,8 +2,10 @@
 
 ## Content
 
-- [Naive Bayes Text Classifier](./Naive_Bayes_Text_Classifier.ipynb)
-- [Simple Spelling Corrector](./Simple_Spelling_Corrector.ipynb)
-- [Zipf's Law](./Zipf's_Law.ipynb)
 - [Logistic Regression](./Logistic_Regression.ipynb)
+- [Naive Bayes Text Classifier](./Naive_Bayes_Text_Classifier.ipynb)
+- [recommendation System](./Recommendation_System.ipynb)
+- [Simple Spelling Corrector](./Simple_Spelling_Corrector.ipynb)
 - [Spearman and Pearson Correlation](./Spearman_and_Pearson_Correlation.ipynb)
+- [Zipf's Law](./Zipf's_Law.ipynb)
+- [Random Graphs](./Random_Graphs.ipynb)
